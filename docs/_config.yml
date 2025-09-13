@@ -31,12 +31,12 @@
 
 domain: http://saba-no-hone.com     # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://saba-no-hone.com  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /saba-no-hone/docs      # place folder name if the site is served in a subfolder
+# baseurl: /saba-no-hone/docs      # place folder name if the site is served in a subfolder
 
 # Build settings
-# theme: minima
-# plugins:
-#   - jekyll-feed
+theme: minima
+plugins:
+   - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
