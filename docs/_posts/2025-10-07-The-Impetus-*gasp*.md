@@ -25,5 +25,3 @@ My experience in this world is worth just as much as anyone else’s.
 Everyone has a bit of a desire to be understood, and it is a desire that I would like to get better at expressing. All the things I say make no sense even to me, which is probably not good.
 
 It takes a lot of strength to translate your innards into out-ards. I think when you attempt to explain yourself to the world, you will begin to understand yourself a little better…
-
-I am a first-year at the University of California, Berkeley studying data science. 
