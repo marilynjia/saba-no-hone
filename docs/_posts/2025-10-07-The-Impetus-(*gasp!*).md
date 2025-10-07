@@ -8,7 +8,7 @@ I'm no journalling fanatic, but I do like a good life archive. It keeps you acco
 
 I'm also really an unreliable narrator when it comes to my own life, so I would like to have a tangible record to look back on in the future. 
 
-Thoughts exist only in your head, but blogs exist on screens and in data warehouses. Much easier to access and query, more permanent but not nearly as eternal. 
+Thoughts exist only in your head, but blogs exist on screens and in data warehouses. Much easier to access and query, more permanent albeit not nearly as eternal. 
 
 I am in college now, which seems like exactly the right time for niche nerd projects. 
 
