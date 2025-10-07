@@ -1,4 +1,4 @@
-The first thing I will do on this blog is justify its existence. An impetus!
+The first thing I will do on this blog is justify its existence. An impetus! A motivation! A why!
 
 Many reasons to blog, in no particular order:
 
@@ -14,7 +14,7 @@ I am in college now, which seems like exactly the right time for niche nerd proj
 
 Tragically, I'm not taking a single humanities class this semester. I need to keep my creative skills sharp & juicy, like a pineapple. 
 
-I want to take a creative writing minor, but I am a painfully slow writer & need to improve on that. I'm also honestly kind of a really bad writer from a certain angle, and I would like to get a look at myself from that angle to find out what's going on.
+I want to take a creative writing minor, but I am a painfully slow writer & need to improve on that. I'm also honestly kind of a really bad writer from a certain angle, and I would like to get a look at myself from said angle to find out what's going on.
 
 I have always thought that writing requires a certain kind of audacity, in a good way. Why would you write if you didn’t think you had anything to say?
 
@@ -22,6 +22,6 @@ I think it's pretty scary to show people what you create. It implicitly says tha
 
 My experience in this world is worth just as much as anyone else’s. 
 
-Everyone has a bit of a desire to be understood, and it is a desire that I would like to get better at expressing. All the things I say make no sense even to me, which is probably not good.
+Everyone has a bit of a desire to be understood, and it is a desire that I would like to get better at expressing. All the things I say make no sense even to me, which is something I want to improve on.
 
 It takes a lot of strength to translate your innards into out-ards. I think when you attempt to explain yourself to the world, you will begin to understand yourself a little better…
